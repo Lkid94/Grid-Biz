@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    background-image: url("/ep_naturalblack.png");
+    background-color: black;
     background-repeat: repeat;
     margin: 30px 50px;
     line-height: 1.4;
